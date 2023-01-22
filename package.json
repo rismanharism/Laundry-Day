@@ -1,0 +1,14 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "- Memahami struktur alur program dengan algoritma dan pseudocode perulangan\r - Dapat membuat algoritma dan pseudocode dari sebuah permasalahan kecil\r ## Directions\r Foxie akan mencuci pakaiannya menggunakan mesin cuci. Pakaian yang akan dicuci oleh Foxie sebanyak 20 dan akan dimasukkan ke mesin cuci. Tombol power mesin cuci akan menyala jika semua pakaian Foxie sudah masuk ke mesin cuci.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
